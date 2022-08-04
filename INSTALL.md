@@ -1,16 +1,16 @@
-## [TECHNOLOGY](https://technology.com)
+## [[PLACEHOLDER_NAME]]([PLACEHOLDER_URL])
 
 ### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
 ```
-    git clone https://github.com/thanos-theme/technology.git
+    git clone https://github.com/thanos-theme/[PLACEHOLDER_REPO_NAME].git
 ```
 
 ### Install manually
 
-Download using the [GitHub .zip download](https://github.com/thanos-theme/technology/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/thanos-theme/[PLACEHOLDER_REPO_NAME]/archive/master.zip) option and unzip them.
 
 ### Install using TECHNOLOGY_SPECIFIC_METHOD
 
